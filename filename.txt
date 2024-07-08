@@ -1,6 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
-Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-hallo
-The git commit --amend command is used to modify (or “amend”) your most recent Git commit in your repository. It allows you to edit the commit message, add more changes to the commit, or simply adjust the last commit without creating a new commit. This flag can be useful if you forgot to include something in your last commit, made a typo or want to change your commit message. You can also combine --amend with other flags. To change the commit message of your last commit (without opening an editor) try:
